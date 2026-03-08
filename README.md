@@ -36,8 +36,6 @@ MIDNEAR 커머스 서비스의 백엔드 API 서버입니다.
 
 ## 서비스 화면
 
-> 아래 이미지들은 `docs/images` 폴더에 업로드한 뒤 사용하세요.
-
 ### 메거진
 ![메거진](https://github.com/mjkang4416/MIDNEAR_BACKEND/blob/799a00a8a9c3bacb0e13e4b4291388a08d5ea633/doc/%E1%84%86%E1%85%A2%E1%84%80%E1%85%A5%E1%84%8C%E1%85%B5%E1%86%AB.png)
 
