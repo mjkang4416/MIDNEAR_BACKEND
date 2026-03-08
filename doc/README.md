@@ -39,13 +39,13 @@ MIDNEAR 커머스 서비스의 백엔드 API 서버입니다.
 > 아래 이미지들은 `docs/images` 폴더에 업로드한 뒤 사용하세요.
 
 ### 메거진
-![메거진](docs/images/magazine.png)
+![메거진](doc/매거진.png)
 
 ### 상품 리스트
-![상품 리스트](docs/images/shop-product-list.png)
+![상품 리스트](doc/shop(상품리스트).png)
 
 ### 상품 상세
-![상품 상세](docs/images/product-detail.png)
+![상품 상세](doc/상품디테일.png)
 
 ## 기술 스택
 
