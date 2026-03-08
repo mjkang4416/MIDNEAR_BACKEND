@@ -130,7 +130,7 @@ src/main/resources
 - 리뷰/문의: `reviews`, `review_images`, `inquiries`
 
 ### ERD
-![DB 스키마](https://raw.githubusercontent.com/mjkang4416/MIDNEAR_BACKEND/main/doc/MIDNEAR%20%281%29.png)
+![DB 스키마](https://github.com/mjkang4416/MIDNEAR_BACKEND/blob/80c3ac5b893a4219515a321e814b7e24c588d13c/doc/MIDNEAR%20(1).png)
 
 ## API 도메인
 
