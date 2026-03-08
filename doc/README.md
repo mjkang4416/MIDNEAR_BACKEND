@@ -39,7 +39,7 @@ MIDNEAR 커머스 서비스의 백엔드 API 서버입니다.
 > 아래 이미지는 레포의 `doc` 폴더 기준 경로입니다.
 
 ### 메거진
-![메거진](https://raw.githubusercontent.com/mjkang4416/MIDNEAR_BACKEND/main/doc/%EB%A7%A4%EA%B1%B0%EC%A7%84.png)
+![메거진](https://github.com/mjkang4416/MIDNEAR_BACKEND/blob/83d7cda79c3d3b3e83275929d16ecfefc0b0d661/doc/shop%20(%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3).png)
 
 ### 상품 리스트
 ![상품 리스트](https://github.com/mjkang4416/MIDNEAR_BACKEND/blob/7d05c2c57b673c948de6a9b553caa068162e7b34/doc/shop%20(%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3).png)
