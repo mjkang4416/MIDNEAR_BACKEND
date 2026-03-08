@@ -45,7 +45,7 @@ MIDNEAR 커머스 서비스의 백엔드 API 서버입니다.
 ![상품 리스트](https://github.com/mjkang4416/MIDNEAR_BACKEND/blob/7d05c2c57b673c948de6a9b553caa068162e7b34/doc/shop%20(%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3).png)
 
 ### 상품 상세
-![상품 상세](https://raw.githubusercontent.com/mjkang4416/MIDNEAR_BACKEND/main/doc/%EC%83%81%ED%92%88%EB%94%94%ED%85%8C%EC%9D%BC.png)
+![상품 상세](https://github.com/mjkang4416/MIDNEAR_BACKEND/blob/b647f44afcc96c681ffdc6a37a8d2d5d8ad2871e/doc/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7%E1%84%83%E1%85%B5%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AF.png)
 
 ## 기술 스택
 
