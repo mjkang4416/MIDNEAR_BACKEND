@@ -37,7 +37,7 @@ MIDNEAR 커머스 서비스의 백엔드 API 서버입니다.
 ## 서비스 화면
 
 ### 메거진
-![메거진](https://github.com/mjkang4416/MIDNEAR_BACKEND/blob/83d7cda79c3d3b3e83275929d16ecfefc0b0d661/doc/shop%20(%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3).png)
+![메거진](https://github.com/mjkang4416/MIDNEAR_BACKEND/blob/5c57802f68aa27b147df2134c49de25ba79543ab/doc/%E1%84%86%E1%85%A2%E1%84%80%E1%85%A5%E1%84%8C%E1%85%B5%E1%86%AB.png)
 
 ### 상품 리스트
 ![상품 리스트](https://github.com/mjkang4416/MIDNEAR_BACKEND/blob/7d05c2c57b673c948de6a9b553caa068162e7b34/doc/shop%20(%E1%84%89%E1%85%A1%E1%86%BC%E1%84%91%E1%85%AE%E1%86%B7%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3).png)
