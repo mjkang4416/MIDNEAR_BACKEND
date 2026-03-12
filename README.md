@@ -56,11 +56,11 @@ MIDNEAR 커머스 서비스의 백엔드 API 서버입니다.
 
 ### Database
 - MySQL
-- Oracle JDBC (레거시/연동 용도)
 
 ### Infra / DevOps
 - AWS (EC2, RDS, ALB, S3)
 - Jenkins
+- Docker
 
 ### Tools
 - Swagger (springdoc-openapi)
