@@ -52,7 +52,7 @@ MIDNEAR 커머스 서비스의 백엔드 API 서버입니다.
 - Spring Boot 3.4.1
 - Spring Security, Spring Validation
 - MyBatis 3.0.3
-- JWT (jjwt 0.11.5)
+- JWT (jwt 0.11.5)
 
 ### Database
 - MySQL
